@@ -1,0 +1,14 @@
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/bin/Debug/net7.0/app
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/bin/Debug/net7.0/app.deps.json
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/bin/Debug/net7.0/app.runtimeconfig.json
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/bin/Debug/net7.0/app.dll
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/bin/Debug/net7.0/app.pdb
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/obj/Debug/net7.0/app.dll
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/obj/Debug/net7.0/refint/app.dll
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/obj/Debug/net7.0/app.pdb
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/Users/horaguchitakuya/Desktop/dev/test/c#/app/obj/Debug/net7.0/ref/app.dll
